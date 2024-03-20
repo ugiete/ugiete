@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ugiete
 - 👀 I’m interested in Mobile Development, Cloud Environments and Data Science
-- 🌱 I’m currently working with Flutter
+- 🌱 I’m currently working with Flutter and Elixir
 - 💞️ I’m looking to collaborate on Multiplatform apps and ETL pipelines
 - 📫 How to reach me: https://www.linkedin.com/in/ugiete/
